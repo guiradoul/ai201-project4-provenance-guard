@@ -1,0 +1,8 @@
+flask>=3.0.0
+flask-limiter>=3.5.0
+groq==0.15.0
+python-dotenv==1.0.1
+
+# Signal 1 (perplexity) reference language model — GPT-2 via transformers.
+transformers>=4.40.0
+torch>=2.2.0
